@@ -1,3 +1,5 @@
+![GIF](https://i.imgur.com/QCJ3VxZ.gif)
+
 ## Generate Animated timelapses from /r/Place data
 
 #### Work in progress, code janky and missing features!
